@@ -4,8 +4,8 @@
 #### Rk here 👦
 
 ## Notable Live Projects
-- https://openradioster.xyz/
-- https://rajakumar.me
+- [openradioster.me](https://openradioster.xyz/?ref=github_profile)
+- [rajakumar.me](https://rajakumar.me/?ref=github_profile)
 
 ---
 #### Stats Time 📈
