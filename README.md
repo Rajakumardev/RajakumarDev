@@ -4,7 +4,7 @@
 #### Rk here 👦
 
 ## Notable Live Projects
-- [openradioster.me](https://openradioster.xyz/?ref=github_profile)
+- [openradioster.xyz](https://openradioster.xyz/?ref=github_profile)
 - [rajakumar.me](https://rajakumar.me/?ref=github_profile)
 
 ---
